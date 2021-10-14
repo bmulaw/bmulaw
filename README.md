@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 
-<a href="https://figma.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <br/>
 <br/>
