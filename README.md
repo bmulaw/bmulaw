@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 **Hi**, I'm Bernard, a computer science major at Boston University.
 
-- 📚 I’m currently working on **completing my CS degree (May 2022)**. I am a student leader at National Society of Black Engineers and Hack 4 Impact
+- 📚 I’m currently working on **completing my CS degree (May 2022)**. 
+- 💬 Background: I was a software engineer intern at Goldman Sachs and currently, I am a student leader at BU's National Society of Black Engineers and at Hack 4 Impact
 - 🌱 I’m currently learning **Java and Django**.
 - 👀 I’m looking to **begin my software engineering career** as a new grad
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
