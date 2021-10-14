@@ -69,15 +69,5 @@ Here are some ideas to get you started:
 ### Stats
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=bmulaw&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&layout=compact&theme=material-palenight" />
-# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Nazreen 👩‍💻</h2>
-<h3 align="center"> Web Developer</h3>
-<div align="center">
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/makethevotes)
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bmulaw/)
-[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bernard.tech/)
-[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bmulaw@bu.edu)
-<br/>
- </div>
- <br/>
 
