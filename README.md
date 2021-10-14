@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="60"/> </a>
 
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a>
+<!-- <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a> -->
 
 <br/>
 <br/>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<!-- <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> -->
+<a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 
 <br/>
 <br/>
