@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a>
 
+<br/>
+<br/>
+
 <h3 align="left">Frontend Languagues:</h3>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
