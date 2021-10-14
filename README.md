@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 
-<a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
@@ -70,5 +70,7 @@ Here are some ideas to get you started:
 ### Stats
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=bmulaw&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&layout=compact&theme=material-palenight" />
+      
+<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=bmulaw&theme=synthwave&hide_border=true)](https://git.io/streak-stats" alt="bernard" /></p>
 
 
