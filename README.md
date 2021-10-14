@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 **Hi**, I'm Bernard, a computer science major at Boston University.
 
-- 🔭 I’m currently working on **completing my CS degree (May 2022)**.
+- 📚 I’m currently working on **completing my CS degree (May 2022)**. I am a student leader at National Society of Black Engineers and Hack 4 Impact
 - 🌱 I’m currently learning **Java and Django**.
-- 👯 I’m looking to **begin my software engineering career** as a new grad
-- 💬 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
+- 👀 I’m looking to **begin my software engineering career** as a new grad
+- 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 - ⚡ Fun fact: I have visited 16 countries so far!
-- 😋 Favorite Language: 🐍 Python!
+- 💻 Favorite Language: 🐍 Python!
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
