@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Bernard 🧑🏾‍💻</h2>
+# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Bernard 🧑🏾‍💻</h2>
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
@@ -29,15 +29,15 @@ Here are some ideas to get you started:
  <br/>
 
 
-**Hi**, I'm Bernard, a computer science major at Boston University.
+**Hi**, I'm Bernard, a computer science major at Boston University ('22)
 
-- 📚 I’m currently working on **completing my CS degree (May 2022)**. 
-- 💬 Background: I was a software engineer intern at Goldman Sachs and currently, I am a student leader at BU's National Society of Black Engineers and at Hack 4 Impact
-- 🌱 I’m currently learning **Java and Django**.
+- 📚 I interned at Goldman Sachs as a software engineer (Summer '21) 
+- 💬 Background: Currently, I am a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact**
+- 🌱 I’m learning **Java and Django** at this moment.
 - 👀 I’m looking to **begin my software engineering career** as a new grad
-- 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 - ⚡ Fun fact: I have visited 16 countries so far!
 - 💻 Favorite Language: 🐍 Python!
+- 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 <h3 align="left">Backend Languagues:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
