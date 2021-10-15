@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="60"/> </a>
 
 <!-- <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a> -->
-
+<!-- 
 <br/>
-<br/>
+<br/> -->
 
 <h3 align="left">Frontend Languagues:</h3>
 
