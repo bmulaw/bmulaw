@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 
 <span>
-<h3 align="left">Backend Languagues:</h3>  <h3 align="left">Frontend Languagues:</h3>
+<h3 align="left">Backend Languagues: Frontend Languagues: </h3>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
