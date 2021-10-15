@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have visited 16 countries so far!
 - 💻 Favorite Language: 🐍 Python!
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
+
+<span>
 <h3 align="left">Backend Languagues:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -62,6 +64,8 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
+ 
+ </span>
 
 <br/>
 <br/>
