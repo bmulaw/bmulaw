@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/makethevotes)
+<a href="https://twitter.com/makethevotes" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bmulaw)
 [<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bernard.tech/)
 [<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bmulaw@bu.edu)
