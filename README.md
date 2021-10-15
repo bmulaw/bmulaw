@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 
 <span>
-<h3 align="left">Backend Languagues: Frontend Languagues: </h3>
+ <h3 align="left">Backend Languagues:</h3> 
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="60"/> </a>
 
 <!-- <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a> -->
-<!-- 
-<br/>
-<br/> -->
 
+<br/>
+<br/>
+
+ <h3 align="left"> Frontend Languagues: </h3>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 
