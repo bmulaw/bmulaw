@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 
 <div align="center">
- <h3 align="left">Backend Languagues:     Frontend Languagues: </h3>
+ <h3 align="left">Backend Languagues: 
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -61,14 +61,6 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
- 
- </div>
-
-<br/>
-<br/>
-
-
-<h3 align="left">Other Tools:</h3>
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mysql" width="50" height="50"/> </a>
 
@@ -84,6 +76,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+  </div>
 
 ### Stats
       
