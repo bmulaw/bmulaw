@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👀 I’m looking to **begin my software engineering career** as a new grad
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 
-<span>
+<div align="center">
  <h3 align="left">Backend Languagues:</h3> 
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="60"/> </a>
 
 <!-- <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="60" height="40"/> </a> -->
-
+<!-- 
 <br/>
-<br/>
+<br/> -->
 
  <h3 align="left"> Frontend Languagues: </h3>
 
@@ -62,10 +62,11 @@ Here are some ideas to get you started:
 
 <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
  
- </span>
+ </div>
 
 <br/>
 <br/>
+
 
 <h3 align="left">Other Tools:</h3>
 
@@ -82,8 +83,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ### Stats
       
