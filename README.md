@@ -85,7 +85,7 @@ Here are some ideas to get you started:
  <br> <br>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=bmulaw&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
   <br> <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&hide=jupyter&theme=material-palenight" />
 </p>
 
 
