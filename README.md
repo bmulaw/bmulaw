@@ -73,6 +73,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="firebase" width="40" height="40"/></a>
 
+</div>
 
 <br/>
 <br/>
@@ -80,7 +81,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 <br/>
 <br/>
 
-  </div>
+ 
 
 ### Stats
       
