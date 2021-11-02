@@ -53,7 +53,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 
 
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 
@@ -63,7 +63,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  
@@ -71,7 +71,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.heroku.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/></a>
 
 </div>
 
