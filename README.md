@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 Hi, I'm a computer science major at Boston University (Spring '22)
 - 💻 I interned at Goldman Sachs as a software engineer (Summer '21) 
 - 📚 Currently, I am a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact**
-- 🌱 I’m learning **Java and Django** at this moment.
+- 🌱 I’m learning **React Native and Solidity** at this moment.
 - 👀 I’m looking to **begin my software engineering career** as a new grad
 - 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
 
