@@ -20,10 +20,21 @@ Here are some ideas to get you started:
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 <p>
-  <a href="https://twitter.com/makethevotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@makethevotes" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/bmulaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bmulaw" height="30" width="40" /></a>
-  <a href="https://instagram.com/bernard.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" /></a>
- <a href="mailto:bmulaw@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" /></a>
+  <a href="https://twitter.com/makethevotes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@makethevotes" height="30" width="40" />
+  </a>
+  
+  <a href="https://linkedin.com/in/bmulaw" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bmulaw" height="30" width="40" />
+  </a>
+  
+  <a href="https://instagram.com/bernard.tech" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" />
+  </a>
+  
+ <a href="mailto:bmulaw@bu.edu" target="blank" rel="noopener noreferrer" >
+   <img img align="center" height="30" width="40" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" />
+  </a>
 </p>
 <br/>
  </div>
