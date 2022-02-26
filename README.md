@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/bmulaw" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/bernard.tech" target="_blank" rel="noopener noreferrer" ><img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:bmulaw@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shubham_sr44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_sr44" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-raut-8b185a1a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-raut-8b185a1a6" height="30" width="40" /></a>
+<a href="https://instagram.com/sr44.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr44.exe" height="30" width="40" /></a>
+</p>
 <br/>
  </div>
  <br/>
