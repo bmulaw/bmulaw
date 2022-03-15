@@ -42,7 +42,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 <br/>
 <br/>
 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="30"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 
