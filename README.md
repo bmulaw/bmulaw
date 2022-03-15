@@ -1,44 +1,21 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**bmulaw/bmulaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Bernard 🧑🏾‍💻</h2>
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
-<p>
-  <a href="https://twitter.com/makethevotes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@makethevotes" height="30" width="40" />
-  </a>
+<p> <a href="https://twitter.com/makethevotes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@makethevotes" height="30" width="40" /> </a>
   
   <a href="https://linkedin.com/in/bmulaw" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bmulaw" height="30" width="40" />
-  </a>
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bmulaw" height="30" width="40" /> </a>
   
   <a href="https://instagram.com/bernard.tech" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" /> </a>
   
  <a href="mailto:bmulaw@bu.edu" target="blank" rel="noopener noreferrer" >
    <img img align="center" height="30" width="40" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" />
-  </a>
+ </a>
 </p>
+</div>
 <br/>
- </div>
- <br/>
 
 
 Hi, I'm a computer science major at Boston University (Spring '22)
@@ -50,7 +27,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <div align="center">
  
- <h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -60,7 +37,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <a href="https://java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="40" height="40"/> </a>
   
-  <a href="https://nodejs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://nodejs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="C" width="40" height="40"/> </a>
 
 <br/>
 <br/>
