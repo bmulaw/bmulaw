@@ -12,8 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" /> </a>
   
  <a href="mailto:bmulaw@bu.edu" target="blank" rel="noopener noreferrer" >
-   <img img align="center" height="30" width="40" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" />
- </a>
+   <img img align="center" height="30" width="40" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" /> </a>
 </p>
 </div>
 <br>
