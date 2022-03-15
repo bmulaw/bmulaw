@@ -29,7 +29,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 <div align="center">
  
 <h3 align="left">Languages & Tools:</h3>
-
+<!-- BACKEND -->
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -39,7 +39,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 <a href="https://java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="40" height="40"/> </a>
 
 <a href="https://nodejs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="C" width="40" height="40"/> </a> <br><br><br>
-
+<!-- FRONTEND -->
 <a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -51,9 +51,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> <br><br><br>
-
-<a href="https://jasmine.github.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="angular" width="40" height="40"/> </a>
-
+<!-- DB + OTHERS -->
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -62,6 +60,8 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+<a href="https://jasmine.github.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="angular" width="40" height="40"/> </a>
+    
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 
 </div>
