@@ -23,7 +23,7 @@ Hi, I'm a computer science major at Boston University (Spring '22)
 - 📚 Currently, I am a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact**
 - 🌱 I’m learning **Kotlin and Express.js** at the moment.
 - 👀 I’m looking to **begin my software engineering career** as a new grad
-- 📫 Feel free to ask anything [here](mailto:bmulaw@bu.edu)
+- 📫 Feel free to ask me anything [here](mailto:bmulaw@bu.edu)
 
 <div align="center">
  
