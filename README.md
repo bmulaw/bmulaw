@@ -1,4 +1,4 @@
-# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Bernard 🧑🏾‍💻</h2>
+# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px">Hello, I'm Bernard 🧑🏾‍💻</h2>
 
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
