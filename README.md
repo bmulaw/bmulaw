@@ -17,12 +17,12 @@
 </div>
 <br>
 
-Hi, I'm a computer science major at Boston University (Spring '22)
+Hi, I am currently a **Web Engineer Intern @ Spotify**
 
-- 💻 I interned at Goldman Sachs as a software engineer (Summer '21)
-- 📚 Currently, I am a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact**
-- 🌱 I’m learning **Kotlin and Express.js** at the moment.
-- 👀 I’m looking to **begin my software engineering career** as a new grad
+- 💻 I previously interned at Goldman Sachs as a software engineer (Summer '21)
+- 📚 I graduated with a computer science and political science degree from Boston University (May 2022)
+- 🌱 I was a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact** in the past
+- 👀 I’m looking to network with likeminded people interested in tech!
 - 📫 Feel free to ask me anything [here](mailto:bmulaw@bu.edu)
 
 <div align="center">
