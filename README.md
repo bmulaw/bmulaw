@@ -17,9 +17,9 @@
 </div>
 <br>
 
-Hi, I am currently a **Web Engineer Intern @ Spotify**
+Hi, I am currently a **Software Engineer @ Google**
 
-- 💻 I previously interned at Goldman Sachs as a software engineer (Summer '21)
+- 💻 I previously interned at Spotify and Goldman Sachs as a software engineer (Summer '21 and Summer '22)
 - 📚 I graduated with a computer science and political science degree from Boston University (May 2022)
 - 🌱 I was a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact** in the past
 - 👀 I’m looking to network with likeminded people interested in tech!
