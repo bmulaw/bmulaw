@@ -20,9 +20,8 @@
 Hi, I am currently a **Master of Science in Computer Science & Data Science student @ Léonard de Vinci Engineering School (Paris)**
 
 - 🖥️ Most recently, I was a software engineer at Google for 2.5 years and Bloomberg as a software engineer for 1.5 years (NYC)
-- 💻 I have also interned at Spotify and Goldman Sachs as a software engineer (Summer '21 and Summer '22)
-- 📚 I graduated with a computer science and political science degree from Boston University (May 2022)
-- 🌱 I was a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact** in the past
+- 🗒️ I have also interned at Spotify and Goldman Sachs as a software engineer (Summer '21 and Summer '22)
+- 📚 I have earned my Bachelor's in Computer Science from Boston University (May 2022)
 - 👀 I’m looking to network with likeminded people interested in tech!
 - 📫 Feel free to ask me anything [here](mailto:bmulaw1@gmail.com) and click [here](https://drive.google.com/file/d/1n6e0kln94ynWQlRTBMz49P4IeKkXs2e8/view?usp=sharing) to see my resume!
 
