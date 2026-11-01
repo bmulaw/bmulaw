@@ -11,19 +11,20 @@
   <a href="https://instagram.com/bernard.tech" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bernard.tech" height="30" width="40" /> </a>
   
- <a href="mailto:bmulaw@bu.edu" target="blank" rel="noopener noreferrer" >
-   <img img align="center" height="30" width="40" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" /> </a>
+ <a href="mailto:bmulaw1@gmail.com" target="blank" rel="noopener noreferrer" >
+   <img img align="center" height="35" width="80" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
 </p>
 </div>
 <br>
 
-Hi, I am currently a **Software Engineer @ Google**
+Hi, I am currently a **Master of Science in Computer Science & Data Science student @ Léonard de Vinci Engineering School (Paris)**
 
-- 💻 I previously interned at Spotify and Goldman Sachs as a software engineer (Summer '21 and Summer '22)
+- 🖥️ Most recently, I was a software engineer at Google for 2.5 years and Bloomberg as a software engineer for 1.5 years (NYC)
+- 💻 I have also interned at Spotify and Goldman Sachs as a software engineer (Summer '21 and Summer '22)
 - 📚 I graduated with a computer science and political science degree from Boston University (May 2022)
 - 🌱 I was a student leader at BU's **National Society of Black Engineers** and at **Hack 4 Impact** in the past
 - 👀 I’m looking to network with likeminded people interested in tech!
-- 📫 Feel free to ask me anything [here](mailto:bmulaw@bu.edu)
+- 📫 Feel free to ask me anything [here](mailto:bmulaw1@gmail.com) and click [here](https://drive.google.com/file/d/1n6e0kln94ynWQlRTBMz49P4IeKkXs2e8/view?usp=sharing) to see my resume!
 
 <div align="center">
  
@@ -31,11 +32,9 @@ Hi, I am currently a **Software Engineer @ Google**
 <!-- BACKEND -->
 <a href="https://www.python.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="40" height="40"/> </a>
 
 <a href="https://cplusplus.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="40"/> </a>
-
-<a href="https://java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="40" height="40"/> </a>
 
 <a href="https://nodejs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="C" width="40" height="40"/> </a> <br><br><br>
 <!-- FRONTEND -->
