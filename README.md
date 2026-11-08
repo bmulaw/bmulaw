@@ -51,9 +51,9 @@ Hi, I am currently a **Master of Science in Computer Science & Data Science stud
 
 <a target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><br><br><br>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br><br><br>
 
 <!---  Machine Learning  --->
 <a target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="pytorch" width="40" height="40"/> </a>
